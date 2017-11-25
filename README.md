@@ -1,6 +1,8 @@
 # Advanced_Web_Programs
 AWP lab programs MCA BU 5th sem
 
+Note: Save all the perl/cgi programs in cgi-bin folder and all the php files in htdocs folder.
+
 This repo will contain all the Lab programs.
 
 Questions 
